@@ -10,13 +10,15 @@ h1 { text-align: center;
     font-family: "Times New Roman", Times, serif;
     color:  #200b50;
     font-size: 40px;
-    text-decoration: bold, underline;
+    text-decoration: bold;
 }
+
+
 
 h2 { text-align: left;
     font-family: "Times New Roman", Times, serif;
     color:  #200b50;
-    font-size: 25px;
+    font-size: 28px;
 
 }
 
@@ -26,12 +28,39 @@ h3 { text-align: left;
     font-size: 20px;
 }
 
+
+h4 { text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color:  #200b50;
+    font-size: 30px;
+    text-decoration: bold;
+}
+
+h5 { text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    color:  #200b50;
+    font-size: 18px;
+}
+
+h6 { text-align: start;
+    font-family: "Times New Roman", Times, serif;
+    color:  #200b50;
+    font-size: 18px;
+}
+
 td {
-	color: #99CCFF;
+	color: #021429;
 	list-style-position: outside;
 	font-family:"Times New Roman", Times, serif;
-	font-size: 18px;
+	font-size: 15px;
 	}
+
+ct {
+    color: #021429;
+    list-style-position: outside;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 13px;
+    }
 
 a:link {
     text-decoration: none;
@@ -55,5 +84,8 @@ p{
     margin:0px;
 }
 
-/* ID */
+/* Class */
 
+.title{
+    
+}
