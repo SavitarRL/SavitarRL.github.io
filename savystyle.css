@@ -87,7 +87,7 @@ p{
 	letter-spacing: 0.1em;
 	/* line-height: 130%; */
 	font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-	font-size: 12px;
+	font-size: inherit;
 	vertical-align: top;
 	position: inherit;
 	/* font-weight: lighter; */
