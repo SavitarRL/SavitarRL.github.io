@@ -9,10 +9,10 @@ body {margin-left:10%;
 h1 { 
     /* text-align: center; */
     text-align: justify;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    font-family: Helvetica, sans-serif;
     color:  #200b50;
     font-size: 40px;
-    text-decoration: bold;
+    /* text-decoration: bold; */
 }
 
 
@@ -90,3 +90,8 @@ p{
 	position: inherit;
 	/* font-weight: lighter; */
 	}
+
+
+.notbold{
+    font-weight:normal
+}​
