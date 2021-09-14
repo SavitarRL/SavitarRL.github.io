@@ -95,3 +95,8 @@ p{
 .notbold{
     font-weight:normal;
 }​
+
+.center {
+    text-align:center;
+    display:block;
+  }
