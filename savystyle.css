@@ -51,15 +51,15 @@ td {
 	font-size: 15px;
 	}
 
-ct {
-    color: #021429;
-    list-style-position: outside;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; ;
-    font-size: 13px;
+    
+
+    
+a:active {
+    color: blue;
     }
 
 a:link {
-    text-decoration: none;
+    text-decoration: underline;
     font-family: Helvetica, sans-serif;
     color:  #1a1a1a;
     font-size: inherit;
@@ -67,9 +67,14 @@ a:link {
 
 a:hover {
     text-decoration:none;
-	  font-size: inherit;
+	font-size: inherit;
     color: #00279b;
 }
+
+a:visited {
+    color: #00279b;
+    }
+    
 
 hr {
     border: 2px solid #000080;
