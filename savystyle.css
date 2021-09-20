@@ -61,18 +61,18 @@ a:active {
 a:link {
     text-decoration: underline;
     font-family: Helvetica, sans-serif;
-    color:  #1a1a1a;
+    color:  #00319b;
     font-size: inherit;
   }
 
 a:hover {
     text-decoration:none;
 	font-size: inherit;
-    color: #00279b;
+    color: #00319b;
 }
 
 a:visited {
-    color: #00279b;
+    color: #00319b;
     }
     
 
